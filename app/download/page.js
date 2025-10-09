@@ -32,7 +32,7 @@ export default function Download() {
               </div>
               <div className="space-y-4">
                 <a
-                  href="/assets/cellfin_remit_v4.apk"
+                  href="/assets/cellfin_remit_v5.apk"
                   download
                   className="flex items-center justify-center gap-3 bg-[#088040] text-white p-4 rounded-lg hover:bg-[#066832] transition w-full"
                 >
